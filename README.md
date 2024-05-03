@@ -56,7 +56,8 @@ project_directory/
 
 
 ## Screenshots
+![1spage](https://github.com/ShagoulHameed/Project3---BizCardX/assets/154894802/640d2d18-de28-40bd-bc70-374f5e1d26e7)
 
-[Insert screenshots or GIFs of the application here]
+
 
 
