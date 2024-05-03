@@ -39,9 +39,43 @@ streamlit run app.py
 
 
 2. Use the sidebar menu to select the desired operation:
-   - **Home**: Overview and introduction to the application.
-   - **Upload and Modify**: Upload business card images, preview extracted data, and make modifications.
-   - **Delete**: Delete unwanted entries from the database.
+   # Home
+
+Upon launching the application, users are greeted with a welcome message and an overview of the features. They can select an option from the sidebar menu to proceed.
+
+![image](https://github.com/ShagoulHameed/Project3---BizCardX/assets/154894802/1390b0ce-15dd-4292-8267-5fd7fe655779)
+
+
+# Upload and Modify
+
+Users can upload business card images, extract data using OCR, and modify the extracted information before saving it to the database.
+
+![image](https://github.com/ShagoulHameed/Project3---BizCardX/assets/154894802/9bd34517-585a-405a-a1c7-def395709ce1)
+
+
+# Preview
+
+Users can preview the existing entries in the database, providing an overview of all saved business card data.
+
+![image](https://github.com/ShagoulHameed/Project3---BizCardX/assets/154894802/4324e055-6f26-48b6-9ce6-0bdb0e6e263b)
+
+
+# Modify
+
+Users can select a specific entry from the database, modify its details, and save the changes.
+
+![image](https://github.com/ShagoulHameed/Project3---BizCardX/assets/154894802/bcc0456d-bce0-4298-a7b2-a133a901bbcb)
+
+![image](https://github.com/ShagoulHameed/Project3---BizCardX/assets/154894802/cda050fc-639a-431c-946b-19bf9b9a6450)
+
+
+# Delete
+
+Users can delete unwanted entries from the database by selecting the name and designation of the entry to be deleted.
+
+![image](https://github.com/ShagoulHameed/Project3---BizCardX/assets/154894802/dad274d1-dbcc-4563-a2f7-d78cdccb2526)
+
+
 
 ## Directory Structure
 
@@ -55,7 +89,7 @@ project_directory/
 └── BIZ.jpg
 
 
-## Screenshots
+## Project Demo Video
 ![1spage](https://github.com/ShagoulHameed/Project3---BizCardX/assets/154894802/640d2d18-de28-40bd-bc70-374f5e1d26e7)
 
 
