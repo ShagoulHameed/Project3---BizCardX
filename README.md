@@ -90,6 +90,7 @@ project_directory/
 
 
 ## Project Demo Video
+https://www.linkedin.com/posts/shagoul-hameed_python-ocr-sqllite-activity-7192251011258802179-8QDE?utm_source=share&utm_medium=member_desktop
 ![1spage](https://github.com/ShagoulHameed/Project3---BizCardX/assets/154894802/640d2d18-de28-40bd-bc70-374f5e1d26e7)
 
 
